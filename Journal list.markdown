@@ -4,14 +4,14 @@
 よく読む雑誌や掲載文献の傾向などの個人的なまとめ
 アルファベット順（そのうち細分）
 
+
 ## 履歴
 
-
-   * 結構追加（Papersのperiodicals参照）
+   * 140212 横国図書館での蔵書・電子ジャーナルについても、ちょこちょこ追加
+   * 140205結構追加（Papersのperiodicals参照）
    * 140205 ページ作成。first commit（未完成...完成するのだろうか）
 
 ## Science 一般
-
 
    * Nature
    * PLOS ONE
@@ -22,17 +22,17 @@
 
 
    * Acta Oecologia
-   * American Journal of Botany
    * AoB Plants
+
    * 
       * The open-access journal for plant science
    * Applied Vegetation Science
    * The American Naturalist
-   * Annals of Botany
    * Annals of Forest Science
    * Basic and Applied Ecology
-   * Canadian Journal of Botany
    * Canadian Journal of Forest Research
+   * 
+      * [E]… Academic Search Premier… 2001-(1年前)
    * Ecography
    * Ecological Applications
    * Ecological Modeling
@@ -40,12 +40,20 @@
    * Ecological Research
    * Ecology
    * Ecology Letters
+   * 
+      * [E]… ECOLOGY LETTERS (WOL)… 1998-2005
+      * [E]… Ecology Letters (Academic Search Premier)… 1998-(1年前)
    * Ecoscience
    * Ecospere
    * Ecosystems
    * Environmental and Experimental Botany
    * Environmental Management
    * Functional Ecology
+   * 
+      * [E]…
+      * 
+      1. FUNCTIONAL ECOLOGY (WOL)… 1997-(2年前) 
+      2. Functional ecology (Academic Search Premier)… 1998-(1年前)
    * Functional Plant Biology
    * Journal of Ecology
    * Journal of Plant Research
@@ -55,6 +63,12 @@
    * Landscape Ecology
    * Oecologia
    * Oikos
+   * 
+      * [L]… 1949-
+      * [E]… 
+      * 
+      1. OIKOS… 2000- (Wiley Online Library)
+      2. Oikos… 2001-（1年前）
    * Population Ecology
    * Science of the Total Environment
    * Systematic Biology
@@ -77,10 +91,6 @@
    * Biodiversity and Conservation
    * Biological Conservation
    * Conservation Biology
-   * 
-
-
-
 
 ### Evolution
 
@@ -117,6 +127,49 @@
 ### Plant Ecology and Plant Science
 
 
+   * American Journal of Botany: **AJB**
+      * http://www.amjbot.org
+      * Botanical Society of America
+      * 月刊
+      * Subject area
+      * 
+         * Invited Special Papers
+         * Anatomy and Morphology
+         * Book Review
+         * Brief Communication
+         * Bryology and Lichenology
+         * Development and Morphogenesis
+         * **Ecology**
+         * Ecology and Population Biology
+         * Evolution
+         * Genetics and Molecular Biology
+         * Morphology and Evolution
+         * Mycology and Plant Pathology
+         * Paleobotany
+         * Paleomycology and Paleobotany
+         * Phycology
+         * Physiology and Development
+         * Physiology, Development, and Biochemistry
+         * Population Biology
+         * Pteridology
+         * Reproductive Biology
+         * Structure and Development
+         * Systematics
+         * Systematics and Evolution
+         * Systematics and Phytogeography
+         * Systematics, Phytogeography, and Evolution
+         * Tropical Biology
+      * 投稿規定→http://www.amjbot.org/site/misc/ifora.xhtml
+   * Annals of Botany
+   * 
+      * [E]
+      * 
+         * 1887-2004
+         * (Pubmed Central) 1995- (1年前)
+
+   * Canadian Journal of Botany
+   * 
+      * [E]… (Academic Search Premier) 2001-2007
    * International Journal of Plant Sciences
 
    * Journal of Plant Ecology
@@ -166,6 +219,7 @@
 
    * 日本生態学会誌
    * 植生学会誌: Vegetation Science
+   * 森林科学
    * 保全生態学研究
 
 ### Ecology (include Animal)
@@ -173,3 +227,4 @@
 
    * Journal of Animal Ecology
    * Zoology
+
