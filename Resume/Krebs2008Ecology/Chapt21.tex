@@ -1,0 +1,95 @@
+\documentclass[12pt, report, a4paper]{jsbook}
+\usepackage[top=20truemm,bottom=20truemm,left=20truemm,right=20truemm]{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{mediabb}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage[at]{easylist} 
+
+\renewcommand{\prechaptername}{Chapter }
+\renewcommand{\postchaptername}{}
+\newcommand{\xAlert}[1]{{\textbf{\textcolor[cmyk]{1, 0.50, 0, 0}{#1}}}}
+
+\begin{document}
+% /Users/uri/Dropbox/Documents/Books/Ecology/Ecology6th-Krebs/Ecol6th-Ch21.pdf
+
+\setcounter{chapter}{20}
+\chapter{\huge{Disturbance and Nonequilibrium Communities}}
+\dotfill140401 くれぶす輪読会, pages: 434-437. うりゅう担当部分
+\section*{Conceptual Models of Community Organization}
+
+\begin{easylist}[itemize]
+@ （これまでの）一連のモデルは生物群集の\xAlert{生物間相互作用 biological interaction}と\xAlert{物理的要因}の相互関係を捉えるために開発されてきた。このようなモデルは異なる種類の群集が存在し、重要な過程はどのような生態系においても同じであることを認める。
+@ 包括的な群集モデル→\textbf{Menge \& Sutherland (1987)}\cite{Menge:1987ud}
+@@ ３つの群集集合規則 (\textbf{Fig. 21.11})
+\end{easylist}
+
+\begin{easylist}[enumerate]
+@@@ 物理的な撹乱 physical disturbances
+@@@ 捕食 predation
+@@@ 競争 competition
+\end{easylist}
+\begin{easylist}[itemize]
+@@ 環境に対するストレスが増すことで\xAlert{食物網 food web}の複雑さが減るという憶測に基づく\footnote{cf) GrimeのCSR理論}\ \footnote{食物網 $ \not= $ 食物連鎖 food chain}
+。
+\end{easylist}
+\begin{easylist}[enumerate]
+@@@ 極度のストレス環境下では植食者が少なく、植物も少ないため、その効果（被食）は低い。
+@@@@ ex) tundra, desert
+@@@ 中規模のストレス環境では植食者の消費よりも植物の繁茂が上回るので植物が尽きることはない。一方で植物どうしの競争が発生する。
+@@@ ストレスの少ない穏やかな環境では植食者が植物の量を調整する。植物間の競争は稀。
+\end{easylist}
+\begin{easylist}[itemize]
+@@ これまでに提唱されてきた群集集合のモデル（Hariston, Smith, Slobodkin）を取り込む
+@@@ →\textbf{Hariston-Smith-Slobodkin (HSS)モデル}では
+@@@ ２つのモデルの比較（\textbf{Fig. 21.12}）
+@@@@ HSSモデル→植物間の競争が激しい
+@@@@ MSモデル→植物間の競争は少ないが、ストレスの少ない環境では植食者の競争が生じる
+\end{easylist}
+
+\begin{easylist}[itemize]
+@ Sihら\cite{Sih:1985}、陸域・海域の生物群集において２つのモデルを検証→植食者を除去して、植物への影響を評価（\textbf{Table 21.3}）。
+@@ →影響が見られないなら... HSSモデルが正しい（植物間の競争が存在することを示唆）
+@@@ 植食者を除去したことによる植物への影響は大きく、MSモデルを支持するという結果。
+%@ 淡水の生物群集で検証。
+%@@ V $\Rightarrow$ H
+%@@ V $\Leftarrow$ H 
+%@@ V $\Leftrightarrow$ H
+%@@@ V... vegetation, H... herbivores。
+@ bottom-upとtop-down
+@@ \xAlert{bottom-up model}... 餌資源となる栄養段階の低い植物が上位栄養段階の植食者を制限するという仮定（V $\Rightarrow$ H）。
+@@@ 更に、植物の成長は窒素やリンなどの栄養に依存するので... N $\Rightarrow$ V $\Rightarrow$ H $\Rightarrow$ P
+@@ \xAlert{top-down model}... 捕食者が群集内の生物を制御するという仮定（V $\Leftarrow$ H）。
+@@@ Carpenterら...\xAlert{trophic cascade model}→すべての栄養段階で種間の存在が影響し合う 
+@ 陸域でのtrophic cascade
+@@ ザイオン国立公園 Zion national parkでの２つの例
+@ 河川水域の食物網は生物群集における予測を検証するうえで優れる。
+@@ 栄養段階が評価しやすい... Power(1990)は４つの栄養段階を認め、栄養段階上位種の魚類を除いた場合の動態を調査した。
+\end{easylist}
+
+%#########################################
+\begin{figure}
+\includegraphics[width=0.6\textwidth]{images/Fig21-11.pdf}
+\renewcommand{\baselinestretch}{1.2}
+\caption[The Menge-Sutherland model]{The Menge-Sutherland model, in which three factors—interspecies competition, predation, and physical factors—drive community organization.}
+\end{figure}
+
+\begin{figure}
+\includegraphics[width=0.8\textwidth]{images/Fig21-12.pdf}
+\renewcommand{\baselinestretch}{1.2}
+\caption{Schmatic comparison of (a) the Hairston-Smith-Slobodkin (HSS) model and (b) the Menge-Sutherland (MS) model of community organization for benign environments.}
+\end{figure}
+%#########################################
+
+\begin{thebibliography}{99}
+\bibitem{Menge:1987ud}Menge, B. A., and J. P. Sutherland. 1987. Community regulation: variation in disturbance, competition, and predation in relation to environmental stress and recruitment. American Naturalist:730-757.
+\bibitem{Sih:1985}Sih, A., Crowley, P., McPeek, M., Petranka, J., \& Strohmeier, K. 1985. Predation, competition, and prey communities: a review of field experiments. Annual Review of Ecology and Systematics:269-311.
+
+\end{thebibliography}
+
+
+
+\end{document}  
